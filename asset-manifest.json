@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Re-Watch/static/css/main.a7d4fcde.css",
+    "main.js": "/Re-Watch/static/js/main.521d000b.js",
+    "static/js/787.c39803ef.chunk.js": "/Re-Watch/static/js/787.c39803ef.chunk.js",
+    "static/media/DemonSlayer.jpg": "/Re-Watch/static/media/DemonSlayer.917ef077af5f9755842f.jpg",
+    "static/media/aot.webp": "/Re-Watch/static/media/aot.2c551799e6129e0070a7.webp",
+    "static/media/stars.png": "/Re-Watch/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/moon.png": "/Re-Watch/static/media/moon.ab81903c55e2dd21511b.png",
+    "static/media/bleach.jpg": "/Re-Watch/static/media/bleach.090076903198dd4307cd.jpg",
+    "static/media/sword.jpg": "/Re-Watch/static/media/sword.98443ba51ae8e568a5a0.jpg",
+    "index.html": "/Re-Watch/index.html",
+    "main.a7d4fcde.css.map": "/Re-Watch/static/css/main.a7d4fcde.css.map",
+    "main.521d000b.js.map": "/Re-Watch/static/js/main.521d000b.js.map",
+    "787.c39803ef.chunk.js.map": "/Re-Watch/static/js/787.c39803ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d4fcde.css",
+    "static/js/main.521d000b.js"
+  ]
+}
