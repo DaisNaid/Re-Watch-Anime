@@ -17,7 +17,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/adventure" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
@@ -27,7 +27,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/comedy" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
@@ -37,7 +37,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/fantasy" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
@@ -47,7 +47,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/mystery" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
@@ -57,7 +57,10 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink
+            to="/psychological"
+            className="text-white flex items-center p-4"
+          >
             <img
               alt="swords"
               src={swords}
@@ -67,7 +70,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/romance" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
@@ -77,7 +80,7 @@ export default function SideBar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/action" className="text-white flex items-center p-4">
+          <NavLink to="/sci-fi" className="text-white flex items-center p-4">
             <img
               alt="swords"
               src={swords}
