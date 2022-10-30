@@ -17,6 +17,26 @@
   @apply text-white text-sm font-bold bg-purple-600 p-2 rounded-full cursor-default;
 }
 
+.card-container {
+  @apply items-center border-solid border border-darkanime rounded-[10px] m-5 bg-zinc opacity-90 justify-center flex h-[80vh];
+}
+
+.card {
+  @apply relative w-[360px] h-[620px] p-5 rounded-2xl bg-cover bg-center shadow-2xl;
+}
+
+.swiper {
+  width: 240px;
+  height: 320px;
+  background-color: red;
+  transform: translateX(-100%);
+}
+
+.swiper-slide {
+  align-items: center;
+  justify-content: center;
+}
+
 .section::before {
   content: '';
   position: absolute;

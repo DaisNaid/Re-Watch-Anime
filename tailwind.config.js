@@ -9,6 +9,8 @@ module.exports = {
         lightanime: '#7597de',
         zinc: '#d4d4d8',
         violet: '#0f172a',
+        squidred: '#ed1b76',
+        squidgreen: '#037a76',
       },
       borderRadius: {
         circle: '50%',
@@ -30,6 +32,9 @@ module.exports = {
         '0%': { opacity: '0.4' },
         '100%': { opacity: '1' },
       },
+    },
+    screens: {
+      mobile: '1120px',
     },
   },
   variants: {

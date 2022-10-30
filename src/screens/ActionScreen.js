@@ -3,6 +3,7 @@ import aot from '../assets/images/aot.webp';
 import ds from '../assets/images/DemonSlayer.jpg';
 import bleach from '../assets/images/bleach.jpg';
 import { NavLink } from 'react-router-dom';
+import Card from '../components/Card';
 
 export default function ActionScreen() {
   return (
@@ -70,6 +71,7 @@ export default function ActionScreen() {
           <span className="eng px-2">Bleach</span>
         </div>
       </article>
+      <Card />
     </div>
   );
 }
