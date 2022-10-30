@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7d64d47.css",
-    "main.js": "/static/js/main.a063f64a.js",
-    "static/js/787.c39803ef.chunk.js": "/static/js/787.c39803ef.chunk.js",
-    "static/media/DemonSlayer.jpg": "/static/media/DemonSlayer.917ef077af5f9755842f.jpg",
-    "static/media/aot.webp": "/static/media/aot.2c551799e6129e0070a7.webp",
-    "static/media/stars.png": "/static/media/stars.fb95e3d1302794752cfa.png",
-    "static/media/moon.png": "/static/media/moon.ab81903c55e2dd21511b.png",
-    "static/media/bleach.jpg": "/static/media/bleach.090076903198dd4307cd.jpg",
-    "static/media/sword.jpg": "/static/media/sword.98443ba51ae8e568a5a0.jpg",
-    "index.html": "/index.html",
-    "main.c7d64d47.css.map": "/static/css/main.c7d64d47.css.map",
-    "main.a063f64a.js.map": "/static/js/main.a063f64a.js.map",
-    "787.c39803ef.chunk.js.map": "/static/js/787.c39803ef.chunk.js.map"
+    "main.css": "/Re-Watch/static/css/main.c7d64d47.css",
+    "main.js": "/Re-Watch/static/js/main.4b417c1d.js",
+    "static/js/787.c39803ef.chunk.js": "/Re-Watch/static/js/787.c39803ef.chunk.js",
+    "static/media/DemonSlayer.jpg": "/Re-Watch/static/media/DemonSlayer.917ef077af5f9755842f.jpg",
+    "static/media/aot.webp": "/Re-Watch/static/media/aot.2c551799e6129e0070a7.webp",
+    "static/media/stars.png": "/Re-Watch/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/moon.png": "/Re-Watch/static/media/moon.ab81903c55e2dd21511b.png",
+    "static/media/bleach.jpg": "/Re-Watch/static/media/bleach.090076903198dd4307cd.jpg",
+    "static/media/sword.jpg": "/Re-Watch/static/media/sword.98443ba51ae8e568a5a0.jpg",
+    "index.html": "/Re-Watch/index.html",
+    "main.c7d64d47.css.map": "/Re-Watch/static/css/main.c7d64d47.css.map",
+    "main.4b417c1d.js.map": "/Re-Watch/static/js/main.4b417c1d.js.map",
+    "787.c39803ef.chunk.js.map": "/Re-Watch/static/js/787.c39803ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7d64d47.css",
-    "static/js/main.a063f64a.js"
+    "static/js/main.4b417c1d.js"
   ]
 }
